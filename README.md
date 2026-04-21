@@ -52,4 +52,4 @@ python app.py
 
 ## Author
 
-Mohammed Safwan — LPU CSE 2026
+Ormanraj Dhar— LPU CSE 2026
